@@ -9,24 +9,3 @@ Main Chapter Code
 
 -- multihead-attention.ipynb is a minimal notebook with the main data loading pipeline implemented in this chapter
 
-![image.png](attachment:image.png)
-
-![image.png](attachment:image.png)
-
-![image.png](attachment:image.png)
-
-![image.png](attachment:image.png)
-
-![image.png](attachment:image.png)
-
-![image.png](attachment:image.png)
-
-![image.png](attachment:image.png)
-
-![image.png](attachment:image.png)
-
-![image.png](attachment:image.png)
-
-![image.png](attachment:image.png)
-
-![image.png](attachment:image.png)
