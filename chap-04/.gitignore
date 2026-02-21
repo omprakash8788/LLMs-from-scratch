@@ -1,1 +1,6 @@
 /gpt2
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.h5
