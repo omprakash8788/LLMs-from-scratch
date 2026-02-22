@@ -114,11 +114,6 @@ def download_file(url, destination):
                 progress_bar.update(len(chunk))  # Update progress bar
                 file.write(chunk)  # Write the chunk to the file
 """
-
-
-
-
-
 def load_gpt2_params_from_tf_ckpt(ckpt_path, settings):
     # Initialize parameters dictionary with empty blocks for each layer
     params = {"blocks": [{} for _ in range(settings["n_layer"])]}
