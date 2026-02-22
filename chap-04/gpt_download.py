@@ -117,7 +117,7 @@ def download_file(url, destination):
 def load_gpt2_params_from_tf_ckpt(ckpt_path, settings):
     # Initialize parameters dictionary with empty blocks for each layer
     params = {"blocks": [{} for _ in range(settings["n_layer"])]}
-
+ 
     # Iterate over each variable in the checkpoint
     for name, _ in tf.train.list_variables(ckpt_path):
         # Load the variable and remove singleton dimensions
