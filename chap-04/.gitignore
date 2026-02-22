@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But keep these files
+!.gitignore
+!ch04.ipynb
+!previous_chapters.py
+!gpt_download.py
